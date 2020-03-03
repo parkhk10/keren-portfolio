@@ -1,33 +1,20 @@
 import React from 'react';
-import NavBar from './NavBar';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 
 const Home = () => {
     return(
         <div className="">
-            <NavBar/>
             <main class="home-main">
-                <h1>Hi, I'm Keren.</h1>
-
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
-                <p>Some text some text some text some text..</p>
+                <section id="intro-blurb">
+                    <h1>Hi, I'm Keren.</h1>
+                    <p>I’m a front-end developer and a design enthusiast.</p>
+                    <p>Driven by passion for creating thoughtful experiences 
+                        that empower others.</p>
+                </section> 
+                <FontAwesomeIcon icon={faEnvelope} />
+                {/* <FontAwesomeIcon icon={faGithub} />
+                <FontAwesomeIcon icon={faLinkedin} /> */}
             </main>
         </div>
     )
