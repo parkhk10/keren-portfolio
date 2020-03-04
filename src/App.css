@@ -57,7 +57,7 @@ end of default CSS */
   top: 0;
   width: 100%;
   background-color: white;
-  margin-top: 50px;
+  padding-top: 50px;
   /* max-height: 60px; */
 }
 
@@ -104,6 +104,21 @@ end of default CSS */
   justify-content: space-between;
 }
 
-#email-icon {
+#home-projects {
+  display: flex;
+  flex-direction: column;
+}
 
+.project-display-row {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.project-display-title {
+  float: right;
+  width: 30%;
+}
+
+.project-display-thumbnail {
+  float: left;
 }
