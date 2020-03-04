@@ -95,3 +95,15 @@ end of default CSS */
 #intro-blurb {
   text-align: left;
 }
+
+#intro-icons {
+  float: left;
+  width: 10%;
+  color: #999;
+  display: flex;
+  justify-content: space-between;
+}
+
+#email-icon {
+
+}

@@ -1,6 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 const Home = () => {
     return(
@@ -12,9 +13,11 @@ const Home = () => {
                     <p>Driven by passion for creating thoughtful experiences 
                         that empower others.</p>
                 </section> 
-                <FontAwesomeIcon icon={faEnvelope} />
-                {/* <FontAwesomeIcon icon={faGithub} />
-                <FontAwesomeIcon icon={faLinkedin} /> */}
+                <div id="intro-icons">
+                    <FontAwesomeIcon icon={faEnvelope} className="fa-lg" id="envelope-icon"/>
+                    <FontAwesomeIcon icon={faGithub} className="fa-lg"id="github-icon"/>
+                    <FontAwesomeIcon icon={faLinkedin} className="fa-lg" id="linkedin-icon"/>
+                </div>
             </main>
         </div>
     )
