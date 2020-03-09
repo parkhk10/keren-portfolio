@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kerenpark/static/css/main.d2bab430.chunk.css",
+    "main.js": "/kerenpark/static/js/main.648612ef.chunk.js",
+    "main.js.map": "/kerenpark/static/js/main.648612ef.chunk.js.map",
+    "runtime-main.js": "/kerenpark/static/js/runtime-main.db0a742a.js",
+    "runtime-main.js.map": "/kerenpark/static/js/runtime-main.db0a742a.js.map",
+    "static/js/2.82b3e1ea.chunk.js": "/kerenpark/static/js/2.82b3e1ea.chunk.js",
+    "static/js/2.82b3e1ea.chunk.js.map": "/kerenpark/static/js/2.82b3e1ea.chunk.js.map",
+    "index.html": "/kerenpark/index.html",
+    "precache-manifest.97b3b48e9fc3723acd59853957b3e53d.js": "/kerenpark/precache-manifest.97b3b48e9fc3723acd59853957b3e53d.js",
+    "service-worker.js": "/kerenpark/service-worker.js",
+    "static/css/main.d2bab430.chunk.css.map": "/kerenpark/static/css/main.d2bab430.chunk.css.map",
+    "static/js/2.82b3e1ea.chunk.js.LICENSE": "/kerenpark/static/js/2.82b3e1ea.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db0a742a.js",
+    "static/js/2.82b3e1ea.chunk.js",
+    "static/css/main.d2bab430.chunk.css",
+    "static/js/main.648612ef.chunk.js"
+  ]
+}
