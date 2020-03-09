@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/keren-portfolio/static/css/main.d2bab430.chunk.css",
-    "main.js": "/keren-portfolio/static/js/main.3295876b.chunk.js",
-    "main.js.map": "/keren-portfolio/static/js/main.3295876b.chunk.js.map",
+    "main.js": "/keren-portfolio/static/js/main.19bb6d75.chunk.js",
+    "main.js.map": "/keren-portfolio/static/js/main.19bb6d75.chunk.js.map",
     "runtime-main.js": "/keren-portfolio/static/js/runtime-main.f8f69679.js",
     "runtime-main.js.map": "/keren-portfolio/static/js/runtime-main.f8f69679.js.map",
     "static/js/2.82b3e1ea.chunk.js": "/keren-portfolio/static/js/2.82b3e1ea.chunk.js",
     "static/js/2.82b3e1ea.chunk.js.map": "/keren-portfolio/static/js/2.82b3e1ea.chunk.js.map",
     "index.html": "/keren-portfolio/index.html",
-    "precache-manifest.4d5f30207ed9062db32d0ed383bece51.js": "/keren-portfolio/precache-manifest.4d5f30207ed9062db32d0ed383bece51.js",
+    "precache-manifest.799c7ffbe6c12bbc416fd4db40f2d939.js": "/keren-portfolio/precache-manifest.799c7ffbe6c12bbc416fd4db40f2d939.js",
     "service-worker.js": "/keren-portfolio/service-worker.js",
     "static/css/main.d2bab430.chunk.css.map": "/keren-portfolio/static/css/main.d2bab430.chunk.css.map",
     "static/js/2.82b3e1ea.chunk.js.LICENSE": "/keren-portfolio/static/js/2.82b3e1ea.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f8f69679.js",
     "static/js/2.82b3e1ea.chunk.js",
     "static/css/main.d2bab430.chunk.css",
-    "static/js/main.3295876b.chunk.js"
+    "static/js/main.19bb6d75.chunk.js"
   ]
 }
